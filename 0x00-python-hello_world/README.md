@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-alx-higher_level_programming
-=======
 0. Run Python file
 
 1. Run inline
@@ -28,4 +25,3 @@ alx-higher_level_programming
 12. Compile
 
 13. ByteCode -> Python #1
->>>>>>> 5a22a0463d5e354ec915d6bcaf7c5a78e66e7ba7

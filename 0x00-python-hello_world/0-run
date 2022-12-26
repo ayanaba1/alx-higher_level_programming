@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 python "$PYFILE"
+=======
+python $PYFILE
+>>>>>>> 5a22a0463d5e354ec915d6bcaf7c5a78e66e7ba7
